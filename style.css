@@ -5,10 +5,23 @@ body {
 }
 
 header{
-    border-bottom: solid 2px white;
+    border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
+}
+
+section {
+background-color: rgb(240 171 65);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+
 }
 
 h1{
